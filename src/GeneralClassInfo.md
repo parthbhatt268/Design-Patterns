@@ -44,3 +44,20 @@
 ### Summary
 - **Static Methods**: Called on the class itself (`ClassName.methodName()`).
 - **Instance Methods**: Called on an instance (`instance.methodName()`). No need to use `static` for instance methods.
+
+
+
+---
+
+# Interface Analogy: Index in a Book
+
+- An **interface** in TypeScript is like an **index in a book**.
+  - The **index lists** all the topics covered, but does not provide the actual content.
+  - Similarly, an **interface lists** all the methods and properties a class must implement, without providing their implementation.
+
+- When a class **implements an interface**, it’s like **writing the actual content** for the topics listed in the index.
+
+- This helps maintain **consistency** and provides a clear structure, just like how an index provides structure for a book.
+---
+
+
