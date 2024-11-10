@@ -1,3 +1,8 @@
+# To run the code
+```bash
+npm start
+```
+
 # Design-Patterns
 This repo will hold exmaple of design pattern and useful article links
 
